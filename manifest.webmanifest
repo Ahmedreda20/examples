@@ -1,7 +1,8 @@
 {
     "background_color": "white",
     "description": "Shows random fox pictures. Hey, at least it isn't cats.",
-    "display": "fullscreen",
+    "display": "standalone",
+    "orientation": "portrait",
     "icons": [
       {
         "src": "https://i.postimg.cc/Y2JD8sbt/man.png",
